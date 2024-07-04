@@ -8,7 +8,8 @@
 }
 
 body{
-    background-color: #16201F;
+    background-color: red;
+    color: purple;
     font-family: "Kanit", sans-serif;
     overflow-x: hidden;    
 }
